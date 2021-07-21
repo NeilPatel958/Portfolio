@@ -1,0 +1,19 @@
+div {
+    color: red;
+    background-color: lightblue;
+    border-style: dashed;
+    border-width: 15px;
+    border-color: green;
+    border-radius: 30px;
+}
+body {
+    background-color: lightblue
+}
+p{
+    text-align: left;
+}
+img {
+    width: 100px;
+    height: 100px;
+
+}
